@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Namikng
 - 👀 I’m interested in making mobile apps
-- 🌱 I’m currently learning flutter(dart)
+- 🌱 I’m flutter developer
 - 📫 How to reach me namikng@gmail.com
 
 <!---
