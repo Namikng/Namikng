@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Namikng
-- 👀 I’m interested in making mobile apps
-- 🌱 I’m flutter developer
-- 📫 How to reach me namikng@gmail.com
+👋 Hi, I'm Nami!
+
+📱 I build mobile apps with Flutter.
+
+🌱 I enjoy learning, experimenting, and sharing what I learn.
 
 <!---
 Namikng/Namikng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
